@@ -8,4 +8,6 @@ public class HomePage {
 
     // navigation menu
 
+
+    // new logo
 }
